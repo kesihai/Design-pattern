@@ -64,7 +64,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="HTC_Factory.cpp" />
+    <ClCompile Include="HTC_Phone.cpp" />
+    <ClCompile Include="Iphone_Factory.cpp" />
+    <ClCompile Include="Iphone_Phone.cpp" />
     <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Factory.h" />
+    <ClInclude Include="HTC_Factory.h" />
+    <ClInclude Include="HTC_Phone.h" />
+    <ClInclude Include="Iphone_Factory.h" />
+    <ClInclude Include="Iphone_Phone.h" />
+    <ClInclude Include="Phone.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
