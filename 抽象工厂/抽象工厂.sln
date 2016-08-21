@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "抽象工厂", "抽象工厂\抽象工厂.vcxproj", "{F3453B10-D68D-4DCF-A390-2CACA29B8234}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3453B10-D68D-4DCF-A390-2CACA29B8234}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F3453B10-D68D-4DCF-A390-2CACA29B8234}.Debug|Win32.Build.0 = Debug|Win32
+		{F3453B10-D68D-4DCF-A390-2CACA29B8234}.Release|Win32.ActiveCfg = Release|Win32
+		{F3453B10-D68D-4DCF-A390-2CACA29B8234}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
