@@ -8,6 +8,10 @@ Mune_Sell::Mune_Sell()
 
 Mune_Sell::~Mune_Sell()
 {
+	//printf("hello\n");
+	map<string, Sell*>::iterator it;
+	for (it = mp.begin(); it != mp.end(); ++it)
+		delete it->second;
 }
 
 int Mune_Sell::count = 0;

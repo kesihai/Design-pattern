@@ -13,6 +13,7 @@ int main()
 	client->Add_dish("D");
 	client->Give_Money();
 	cout << "生成对象个数 " <<Mune_Sell::count << endl;
+	delete client;
 	getchar();
 	return 0;
 }
