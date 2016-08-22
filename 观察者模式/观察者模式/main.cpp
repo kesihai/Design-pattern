@@ -18,11 +18,13 @@ int main()
 	f->Add(drink_2);
 	f->Add(Game_2);
 
+
 	ff->Add(f);
 
 	f->Notify();
 	ff->Notify();
 	//每一个通知者也可是是被通知者
+
 	getchar();
 	return 0;
 }

@@ -13,5 +13,6 @@ public:
 private:
 	list<Need_Infor*>my_infor;
 	string name;
+
 };
 
