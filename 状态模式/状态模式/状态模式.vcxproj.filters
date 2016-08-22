@@ -47,8 +47,5 @@
     <ClCompile Include="Evening_Status.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Status.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>

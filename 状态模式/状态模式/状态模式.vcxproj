@@ -75,7 +75,6 @@
     <ClCompile Include="Evening_Status.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Morning_Status.cpp" />
-    <ClCompile Include="Status.cpp" />
     <ClCompile Include="Work.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

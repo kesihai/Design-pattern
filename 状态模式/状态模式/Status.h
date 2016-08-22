@@ -6,7 +6,7 @@
 
 class Status{
 public:
-	virtual void Write_Program(Work* work);
+	virtual void Write_Program(Work* work)=0;
 };
 
 #endif
