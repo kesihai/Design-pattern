@@ -9,6 +9,7 @@ Client::Client()
 
 Client::~Client()
 {
+	delete mune;
 }
 
 void Client::Add_dish(string name)
