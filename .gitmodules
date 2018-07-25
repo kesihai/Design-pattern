@@ -1,0 +1,3 @@
+[submodule "PaintBoard"]
+	path = PaintBoard
+	url = https://github.com/kesihai/PaintBoard.git
